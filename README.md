@@ -1,11 +1,11 @@
 
-# Mapty Application
+# Mapty Application 🗺
 
 This is an online pin pointing application used to mark workouts locations on the world map showing the places of preference marking either running or a cycling activity(workout).
 
 
 
-## Contributing
+## 📈 Contributing
 
 Contributions are always welcome and believe that we going to make this project better!
 
@@ -16,11 +16,7 @@ Simply fork and clone the repo.
 Apply your changes and push to master branch. Feel free to push to master branch.
 
 
-
-
-
-
-## Features
+## 〽 Features
 
 - Ability to enter the desired workout (running/cycling), distance, duration and cadence incase of running.
 - Pin pointing the locations on the map with signficant indicators of the related activity.
@@ -29,56 +25,41 @@ Apply your changes and push to master branch. Feel free to push to master branch
 - Persistance of the previous activities
 
 
-
-
-
-## License
+## 📃 License
 
 [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html/)
 
 
-
-
-
-
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## 🚀 About Me
-I'm a full stack developer...
-
-
-# Hi, I'm Katherine! 👋
+I'm Ssekajja Wavamuno Isaac a Ugandan backend developer making it with Java, Javascritp, Spring Boot, Docker and other technologies also interested in mobile development with Java ready collaborate on any open source projects when given a chance.
+I love working remotely.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Isaac-Whiz)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssekajjawavamuno-isaac-628a612b6?)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IsaacWavamuno?s=09)
 
 
-## Acknowledgements
+## 🧠 Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [JONAS SCHMEDTMANN](https://twitter.com/jonasschmedtman)
 
 
-## Screenshots
+## 🖼🖼 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot1](https://github.com/Isaac-Whiz/Mapty/assets/95527627/42c174f9-3dd1-47b9-877a-e1c6782c7758)
+![App Screenshot2](https://github.com/Isaac-Whiz/Mapty/assets/95527627/4ae56ef4-1798-4065-8a09-071d129e35b7)
 
 
-## Usage/Examples
+## 🥏 Usage/Examples
 
-```javascript
-import Component from 'my-project'
+Simply clone the repo and open the ```index.html``` file with any prefered web browser. 😎
 
-function App() {
-  return <Component />
-}
-```
+
+## 🧱 Bricks and Cemeent 
+
+- [Javascript](https://www.w3schools.com/js/default.asp)
+- [CSS](https://www.w3schools.com/Css/)
+- [Html](https://www.w3schools.com/html/)
 
